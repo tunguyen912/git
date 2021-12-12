@@ -1,2 +1,2 @@
-const str = 'First commit';
+const str = 'Second commit';
 console.log(str);
