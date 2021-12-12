@@ -1,1 +1,1 @@
-const str = 'First commit';
+const str = 'Second commit';
