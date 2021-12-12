@@ -1,2 +1,3 @@
-const str = 'First commit';
+const str = 'Third commit';
+console.log(str);
 console.log(1);
