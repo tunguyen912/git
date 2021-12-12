@@ -1,2 +1,2 @@
 const str = 'First commit';
-console.log(str);
+console.log(1);
