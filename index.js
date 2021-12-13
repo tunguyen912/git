@@ -1,3 +1,4 @@
 const str = 'Third commit';
 console.log(str);
-console.log(2);
+console.log(3);
+
